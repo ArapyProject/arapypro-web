@@ -2,8 +2,8 @@
   <Layout>
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="leading-tight">Welcome to the</div>
-        <div class="text-yellow-700 leading-tight">Blockchain Development Program</div>
+        <div class="leading-tight">Bienvenido al</div>
+        <div class="text-yellow-700 leading-tight">Programa de Desarrollo Blockchain</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/connected_world.svg" alt="hero" class="mx-auto sm:mx-0" />
@@ -14,7 +14,7 @@
     <div class="container-inner mx-auto">
       <p
         class="text-lg sm:text-xl"
-      >We are developing and planning to launch our cryptocurrency AgoraCash on 06/13/2020, a cryptocurrency/token for latinamerican agorists*! We are currently working on the services that will be part of the AgoraCash ecosystem but instead of launching yet another ICO we decided it would be a good idea to launch a Blockchain Development Program to collect funds for further development of our token and the services asociated with it. That's how we came up with the idea to launch the Arapy Project, a Blockchain Development Program.</p>
+      >Estamos en proceso de desarrollo y pre-lanzamiento de la moneda/token AgoraCash en fecha 13/06/2020, una criptomoneda/token para los agoristas latinoamericanos. Nos encontramos trabajando en los servicios que van a formar parte del ecosistema de AgoraCash, por ello, en lugar de lanzar una ICO más pensamos que sería buena idea recaudar fondos mediante el Programa de Desarrollo Blockchain.</p>
 
       <div class="flex justify-between items-center py-6">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
@@ -33,7 +33,7 @@
         <h2
           class="font-bold mb-6"
           id="program"
-        >The program is divided into project based blocks in which you will learn step by step:</h2>
+        >El programa está dividido en bloques basados en proyectos en los cuales usted aprenderá paso a paso:</h2>
         <div class="absolute right-0" style="top: 50px; transform: translate(100%) rotate(180deg)">
           <svg width="170px" height="170px">
             <use xlink:href="#dots-triangle" />
@@ -42,34 +42,34 @@
 
         <ul class="text-lg sm:text-xl">
           <li class="checkmark mb-6">
-            <div>Development environment:</div>
+            <div>Entorno de desarrollo:</div>
             <div
               class="text-lg text-gray-600"
-            >Installation and configuration of the tools and technologies to be used during the program (Git, Github, VirtualBox, Ubuntu, Visual Studio Code, Truffle, Ganache, Metamask, Node.Js, NPM, VPS servers, Unity, etc)</div>
+            >Instalación y configuración de las herramientas y tecnologías a ser utilizadas durante el programa (Git, Github, VirtualBox, Ubuntu, Visual Studio Code, Truffle, Ganache, Metamask, Node.Js, NPM, servidores VPS, Unity, etc)</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Forking Stage:</div>
+            <div>Forking:</div>
             <div
               class="text-lg text-gray-600"
-            >How to clone cryptocurrencies with different algorithms (Scrypt / X11 / NeoScrypt / Cryptonight / ERC-20 tokens), wallets, block explorers, nodes, masternodes, sentinels.</div>
+            >Cómo clonar criptomonedas con distintos algoritmos (Scrypt/X11/NeoScrypt/Cryptonight/tokens ERC-20), wallets, block explorers, nodos, masternodes, sentinels.</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Programming Fundamentals:</div>
+            <div>Fundamentos de Programación:</div>
             <div
               class="text-lg text-gray-600"
-            >Full stack JavaScript development (Node.js, React, etc.) to build a test blockchain from scratch.</div>
+            >Desarrollo Full stack con JavaScript (Node.js, React, etc) para crear una blockchain de prueba desde cero.</div>
           </li>
           <li class="checkmark mb-6">
             <div>Smart contracts:</div>
             <div
               class="text-lg text-gray-600"
-            >Development of smart contracts on the Ethereum blockchain using the Solidity programming language. (token, token sale, ballot, eCommerce, Crowdfunding platform and decentralized Exchanges)</div>
+            >Desarrollo de smart contracts en la blockchain de Ethereum utilizando el lenguaje de programación Solidity. (token, token sale, ballot, eCommerce, plataforma de Crowdfunding y Exchanges decentralizados).</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Requirements:</div>
+            <div>Requisitos:</div>
             <div
               class="text-lg text-gray-600"
-            >No previous knowledge of blockchain, cryptocurrencies, programming, command line, Linux, servers is required. All lessons will be developed from scratch.</div>
+            >No se necesitan conocimientos previos de blockchain, criptomonedas, programación, línea de comandos, Linux, servidores. Todas las lecciones van a ser desarrolladas desde cero.</div>
           </li>
         </ul>
       </div>
@@ -79,7 +79,7 @@
     <div class="container-inner mx-auto">
       <p
         class="text-lg sm:text-xl"
-      >Learn to develop Full stack Blockchain Solutions. This is not a "Smart contracts only" program. Let´s build 4 cryptocurrencies based on Litecoin, Dash, Monero and ERC20 token.</p>
+      >Aprenda a desarrollar soluciones Blockchain Full Stack. Este no es un curso de "Sólo Smart contracts". Aprenda a crear y lanzar 4 criptomonedas diferentes usando como base Litecoin, Dash, Monero y los ERC20 token.</p>
 
       <div class="flex justify-between items-center py-6">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
@@ -98,7 +98,7 @@
         <h2
           class="font-bold mb-6"
           id="enroll"
-        >Enroll now and become a Full Stack Blockchain Developer!</h2>
+        >Regístrese ahora y conviértase en un Desarrollador Blockchain Full Stack!</h2>
         <div class="absolute right-0" style="top: 50px; transform: translate(100%) rotate(180deg)">
           <svg width="170px" height="170px">
             <use xlink:href="#dots-triangle" />
@@ -107,40 +107,40 @@
 
         <ul class="text-lg sm:text-xl">
           <li class="checkmark mb-6">
-            <div>Lifetime access to all the learning blocks</div>
+            <div>Acceso a todos los Bloques de Aprendizaje</div>
           </li>
           <li class="checkmark mb-6">
-            <div>4 finished projects ready for production</div>
+            <div>4 Proyectos terminados y listos para lanzamiento</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Code Lab including 3 VPS servers for our projects</div>
+            <div>Laboratorio con 3 VPS incluidos para realizar las pruebas de los proyectos</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Tokenomics: 50% of the AgoraCash (AGOX) tokens will be distributed between the students</div>
+            <div>Tokenomics: 50% de los tokens AgoraCash (AGOX) serán distribuidos entre los participantes del programa</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Start Date: 03/13/2020</div>
+            <div>Inicio: 13/03/2020</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Duration: 12 weeks</div>
+            <div>Duración: 12 semanas</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Price: U$D 200.00 (March)</div>
+            <div>Costo: U$D 120.00 (Marzo)</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Price: U$D 100.00 (February)</div>
+            <div>Costo: U$D 60.00 (Febrero)</div>
           </li>
           <li class="checkmark mb-6">
-            <div>We accept: BTC, ETH, LTC, DASH, XMR, DOGE, EOS, TRX, NEO.</div>
+            <div>Aceptamos criptomonedas: BTC, ETH, LTC, DASH, XMR, DOGE, EOS, TRX, NEO.</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Credit/debit cards, bank transfers, Paypal and other centralized payment methods are not accepted.</div>
+            <div>No Aceptamos: Tarjetas de Crédito, transferencias bancarias, Paypal y otros métodos de pago centralizados.</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Enroll now by clicking on the button below, you will be redirected to CoinPayment's Payment Processor.</div>
+            <div>Participe del Programa haciendo click en el botón de abajo, será redirigido al procesador de pagos CoinPayments para finalizar la inscripción.</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Once the payment is processed and confirmed you will receive a confirmation mail with details to access our LMS.</div>
+            <div>Una vez realizado el pago usted recibirá un mail de confirmación con los detalles de acceso a nuestro LMS.</div>
           </li>
           <li>
             <div>
@@ -148,9 +148,9 @@
                 <input type="hidden" name="cmd" value="_pay_simple" />
                 <input type="hidden" name="reset" value="1" />
                 <input type="hidden" name="merchant" value="96b59fa673a4948629f4c90b0c168c71" />
-                <input type="hidden" name="item_name" value="Blockchain Development Program" />
+                <input type="hidden" name="item_name" value="Programa de Desarrollo Blockchain" />
                 <input type="hidden" name="currency" value="USD" />
-                <input type="hidden" name="amountf" value="100.00000000" />
+                <input type="hidden" name="amountf" value="60.00000000" />
                 <input type="hidden" name="want_shipping" value="0" />
                 <input type="hidden" name="success_url" value="https://www.arapy.pro/success" />
                 <input type="hidden" name="cancel_url" value="https://www.arapy.pro" />
@@ -186,7 +186,7 @@
         </div>
       </div>
       
-    </div>      
+    </div>
     -->
   </Layout>
 </template>
